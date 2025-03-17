@@ -1,0 +1,32 @@
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #212529;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #F8F9FA; /* Color de fondo */
+    color: #212529; /* Color del texto */
+    padding: 20px;
+}
+
+ul {
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+ul li{
+    display:block;
+    float:left;
+    padding:0 10px;
+    }
+
